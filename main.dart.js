@@ -44523,7 +44523,7 @@ A.wH.prototype={
 T(a){return new A.ou(B.wN,"My Portofolio",A.a1D(null,B.e8,null),null)}}
 A.vU.prototype={
 T(a){var s=null
-return new A.ud(B.iE,B.A5,B.oW,B.jv,s,B.ix,s,A.a([A.a1A("Halo,",A.lP(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.aV,s,s,!0,s,s,s,s,s,s,s,s)),A.a1A("Nama saya I Putu Rama Anadya ",A.lP(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.m,s,s,!0,s,s,s,s,s,s,s,s))],t.nA),s)}}
+return new A.ud(B.iE,B.A5,B.oW,B.jv,s,B.ix,s,A.a([A.a1A("Halo,",A.lP(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.aV,s,s,!0,s,s,s,s,s,s,s,s)),A.a1A("Nama saya I Putu Rama Anadya :)",A.lP(s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.m,s,s,!0,s,s,s,s,s,s,s,s))],t.nA),s)}}
 A.aZ.prototype={
 ag(a){var s=a.a,r=this.a
 r[15]=s[15]
