@@ -1,0 +1,28 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    background-color: #101010;
+    color: white;
+
+    .section-title {
+        font-size: 28px;
+        font-weight: 700;
+        text-align: center;
+        letter-spacing: 10px;
+
+        span {
+            background-color: var(--primary-color);
+        }
+    }
+
+    .section-subtitle {
+        font-weight: 500;
+        text-align: center;
+        font-style: italic;
+        margin-top: 16px;
+    }
+}
+

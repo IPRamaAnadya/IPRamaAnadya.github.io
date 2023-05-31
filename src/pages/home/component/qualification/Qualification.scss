@@ -1,0 +1,101 @@
+.home-qualification {
+    width: 70%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    .qualification-menus {
+        margin-top: 50px;
+        display: flex;
+        flex-direction: row;
+        gap: 50px;
+        cursor: pointer;
+
+        :hover {
+            font-weight: 700;
+        }
+
+        .active {
+            font-weight: 700;
+            border-bottom: 2px solid white;
+        }
+    }
+
+    .qualification-data-container {
+        width: 100%;
+        margin-top: 50px;
+        display: flex;
+        flex-direction: column;
+
+        .qualification-data {
+            width: 100%;
+            display: flex;
+            gap: 10px;
+
+            .left-data {
+                flex-basis: 45%;
+                align-items: flex-end;
+                text-align: right;
+            }
+
+            .dot-line {
+                flex-basis: 10%;
+                height: auto;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+
+                .dot {
+                    width: 14px;
+                    height: 15px;
+                    border-radius: 100%;
+                    background-color: var(--secondary-color);
+                }
+
+                .line {
+                    width: 1px;
+                    height: 100%;
+                    background-color: var(--secondary-color);
+                    
+                    &.last {
+                        display: none;
+                    }
+                    
+                }
+
+            }
+
+            .right-data {
+                flex-basis: 45%;
+            }
+
+            .data {
+
+                margin-bottom: 50px;
+
+                > * {
+                    margin-top: 10px;
+                }
+                
+                .title {
+                    font-weight: 700;
+                }
+                
+                .year {
+                    font-style: italic;
+                }
+            }
+        }
+        
+    }
+}
+
+
+
+// .rama-kun {
+//     anjing
+//     babi
+//     monyet
+// }
