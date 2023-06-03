@@ -1,0 +1,41 @@
+.home-skill {
+    min-height: 100vh;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+
+    .skills-wrapper {
+        margin-top: 80px;
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 20px;
+        justify-content: center;
+
+        .skill {
+            flex-basis: 10%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+
+            img {
+                width: 80px;
+                height: 80px;
+                border-radius: 30px;
+                margin-bottom: 16px;
+                aspect-ratio: 1/1;
+                object-fit: cover;
+            }
+        }
+    }
+
+    .other-skills {
+        margin-top: 50px;
+        font-weight: 700;
+    }
+}

@@ -8,7 +8,7 @@ const HomeAbout = () => {
             </div>
             <div className='content'>
                 <div className='description'>
-                I am a Mobile Developer who has great interest in the field of technology development, especially in the development of mobile applications. Mastering the Swift programming language for iOS application development, Kotlin for Android application development as well as the Dart language and the Flutter framework for multiplatform application development. I do not rule out the possibility that I will learn to use the React Native framework if needed by the company. Skilled in operating Android Studio, XCode and Visual Studio Code. Supporting skills include UI/UX Designer, Front End Developer. Able to work individually or in a team, responsible, honest and adaptable. Last, I like frozen pasta made in Japan.
+                I am an experienced Mobile Developer with a deep passion for technology and a focus on iOS (Swift), Android (Kotlin), and cross-platform (Flutter with Dart) application development. I possess strong skills in UI/UX design and front-end development, utilizing tools such as Android Studio, Xcode, and Visual Studio Code. I am committed to staying up-to-date with the latest industry trends and continuously expanding my skill set. Known for delivering high-quality mobile applications, I excel both independently and as a collaborative team member. I am adaptable, responsible, and detail-oriented, thriving in dynamic work environments. Outside of work, I like frozen pasta made in Japan.
                 </div>
             </div>
         </div>
