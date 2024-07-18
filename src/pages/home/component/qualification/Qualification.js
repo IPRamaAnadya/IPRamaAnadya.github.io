@@ -24,14 +24,26 @@ const Qualification = () => {
 
     const works = [
         {
+            title: "Kode Kolektif",
+            year: "July 2024 - Now",
+            place: "Kuta, Bali",
+            majoring: "Mobile Engineer"
+        },
+        {
+            title: "Perusahaan Umum Daerah Kerthi Bali Santhi",
+            year: "June 2024 - Now",
+            place: "Kuta, Bali",
+            majoring: "Mobile Engineer"
+        },
+        {
             title: "PT. SUM Digital Consulting",
-            year: "June 2022 - Now",
+            year: "June 2022 - February 2024",
             place: "Kuta, Bali",
             majoring: "Front-end & Mobile Developer"
         },
         {
             title: "CV. Maiharta",
-            year: "September 2022 - Now",
+            year: "September 2022 - January 2024",
             place: "Denpasar, Bali",
             majoring: "Mobile Developer"
         },

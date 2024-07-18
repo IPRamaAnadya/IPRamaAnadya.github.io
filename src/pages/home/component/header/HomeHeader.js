@@ -8,7 +8,7 @@ const HomeHeader = () => {
             <div className='content'>
                 <img src={profileImage} alt='profile'/>
                 <div className='name'>I Putu Rama Anadya</div>
-                <div className='major'>Mobile and Front-end Developer</div>
+                <div className='major'>Mobile Engineer</div>
             </div>
         </div>
     )

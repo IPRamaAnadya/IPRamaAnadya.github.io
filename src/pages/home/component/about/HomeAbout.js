@@ -8,7 +8,7 @@ const HomeAbout = () => {
             </div>
             <div className='content'>
                 <div className='description'>
-                I am an experienced Mobile Developer with a deep passion for technology and a focus on iOS (Swift), Android (Kotlin), and cross-platform (Flutter with Dart) application development. I possess strong skills in UI/UX design and front-end development, utilizing tools such as Android Studio, Xcode, and Visual Studio Code. I am committed to staying up-to-date with the latest industry trends and continuously expanding my skill set. Known for delivering high-quality mobile applications, I excel both independently and as a collaborative team member. I am adaptable, responsible, and detail-oriented, thriving in dynamic work environments. Outside of work, I like frozen pasta made in Japan.
+                I am a highly enthusiastic individual with a deep passion for the world of technology, particularly in mobile application development. With a background in computer science and extensive training as an Android developer, iOS developer, and multi-platform developer with Flutter at Dicoding Indonesia, I have honed my ability to create user-friendly applications that meet diverse needs. My skills are demonstrated by the numerous projects I have successfully completed over nearly two years of professional experience. My mission in the tech industry is to develop systems that are beneficial and accessible to the entire community.
                 </div>
             </div>
         </div>
