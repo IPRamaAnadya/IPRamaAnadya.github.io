@@ -5,7 +5,7 @@ import { useState } from "react";
 
 const Qualification = () => {
 
-    const [qualificationSelected, setQualificationSelected] = useState('education');
+    const [qualificationSelected, setQualificationSelected] = useState('works');
 
     const educations = [
         {
