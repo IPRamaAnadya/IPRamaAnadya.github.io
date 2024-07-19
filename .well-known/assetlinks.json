@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "BaliXperience",
+      "package_name": "id.co.kbsdigital.balixperience",
+      "sha256_cert_fingerprints": [
+        "69:1E:52:5F:AB:3E:AA:52:AB:91:4F:48:F6:50:5F:1A:5B:3B:CF:FF:8C:AA:F7:44:85:DA:11:59:94:BE:6D:20"
+      ]
+    }
+  }
+]
